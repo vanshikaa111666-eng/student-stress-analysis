@@ -16,14 +16,21 @@ Data was collected through a student survey including:
 - Excel / Google Sheets
 - Data visualization
 
+## Project Structure
+
+student_stress_data.csv – dataset collected through survey  
+stress_chart.png – visualization of stress vs study hours  
+sleep_chart.png – visualization of sleep vs stress
+
 ## Key Insights
 - Students studying more than 6 hours daily reported higher stress levels.
 - Lower sleep duration was associated with higher stress scores.
 
 ## Future Improvements
-- Use Python for deeper analysis
-- Expand dataset size
-- Build predictive models
+
+- Collect larger dataset from more students
+- Use Python libraries like Pandas and Matplotlib
+- Apply machine learning models to predict stress levels
 
 - ## Project Goal
 This project was created to explore how data analysis can help understand patterns in student stress and study behavior.
