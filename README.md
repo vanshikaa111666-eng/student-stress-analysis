@@ -25,5 +25,13 @@ Data was collected through a student survey including:
 - Expand dataset size
 - Build predictive models
 
+- ## Project Goal
+This project was created to explore how data analysis can help understand patterns in student stress and study behavior.
+
+## Next Steps
+- Expand dataset size
+- Perform deeper analysis using Python
+- Explore machine learning models for prediction
+
 ## Author
 Vanshika — Student exploring AI, data science, and neuroscience.
